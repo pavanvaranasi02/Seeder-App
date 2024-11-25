@@ -1,0 +1,541 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Pavan",
+      "email": "pavan@gmail.com",
+      "password": "Pavankumar12",
+      "availableCredit": 880000
+    },
+    {
+      "id": "9c5e",
+      "name": "Narendra",
+      "email": "narendra@gmail.com",
+      "password": "Narendra12",
+      "availableCredit": 880000
+    },
+    {
+      "id": "8cfa",
+      "name": "Avinash",
+      "email": "avinash@gmail.com",
+      "password": "Avinash123",
+      "availableCredit": 880000
+    },
+    {
+      "id": "5410",
+      "name": "Shravya",
+      "email": "shravya@gmail.com",
+      "password": "Shravya12",
+      "availableCredit": 880000
+    },
+    {
+      "id": "653f",
+      "name": "spamm",
+      "email": "spamm@gmail.com",
+      "password": "Spammer123",
+      "availableCredit": 880000
+    },
+    {
+      "id": "9173",
+      "name": "Ajay",
+      "email": "ajay@gmail.com",
+      "password": "Ajayalla12",
+      "availableCredit": 880000
+    },
+    {
+      "id": "b055",
+      "name": "Seetha",
+      "email": "seetha@gmail.com",
+      "password": "Seethapassword123",
+      "availableCredit": 880000
+    },
+    {
+      "id": "4d42",
+      "name": "New User",
+      "email": "newuser10@gmail.com",
+      "password": "newuser1234",
+      "availableCredit": 880000
+    },
+    {
+      "id": "29d7",
+      "name": "Deepu",
+      "email": "deepu@gmail.com",
+      "password": "Deepupavan12",
+      "availableCredit": 880000
+    }
+  ],
+  "contracts": [
+    {
+      "id": "1",
+      "name": "Contract 1",
+      "type": "Monthly",
+      "perPayment": 12000.25,
+      "termLengthMonths": 12,
+      "termLengthPercentage": 12,
+      "paymentAmount": 126722.64
+    },
+    {
+      "id": "2",
+      "name": "Contract 2",
+      "type": "Monthly",
+      "perPayment": 6000,
+      "termLengthMonths": 12,
+      "termLengthPercentage": 12,
+      "paymentAmount": 63360
+    },
+    {
+      "id": "3",
+      "name": "Contract 3",
+      "type": "Monthly",
+      "perPayment": 6000,
+      "termLengthMonths": 12,
+      "termLengthPercentage": 12,
+      "paymentAmount": 63360
+    },
+    {
+      "id": "4",
+      "name": "Contract 4",
+      "type": "Monthly",
+      "perPayment": 6000,
+      "termLengthMonths": 12,
+      "termLengthPercentage": 12,
+      "paymentAmount": 63360
+    },
+    {
+      "id": "5",
+      "name": "Contract 5",
+      "type": "Monthly",
+      "perPayment": 6000,
+      "termLengthMonths": 12,
+      "termLengthPercentage": 12,
+      "paymentAmount": 63360
+    },
+    {
+      "id": "6",
+      "name": "Contract 6",
+      "type": "Monthly",
+      "perPayment": 12000.25,
+      "termLengthMonths": 12,
+      "termLengthPercentage": 12,
+      "paymentAmount": 63360
+    },
+    {
+      "id": "7",
+      "name": "Contract 7",
+      "type": "Monthly",
+      "perPayment": 12000.25,
+      "termLengthMonths": 12,
+      "termLengthPercentage": 12,
+      "paymentAmount": 63360
+    },
+    {
+      "id": "8",
+      "name": "Contract 8",
+      "type": "Monthly",
+      "perPayment": 12000.25,
+      "termLengthMonths": 12,
+      "termLengthPercentage": 12,
+      "paymentAmount": 21120
+    }
+  ],
+  "CashKicks": [
+    {
+      "id": "b5f3",
+      "userId": "1",
+      "name": "first advance",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 437529.12,
+      "totalReceived": 390651
+    },
+    {
+      "id": "9d52",
+      "userId": "8cfa",
+      "name": "avinash cash kick",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 212892.55680000002,
+      "totalReceived": 190082.64
+    },
+    {
+      "id": "6864",
+      "userId": "8cfa",
+      "name": "avinash second loan",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 212889.6,
+      "totalReceived": 190080
+    },
+    {
+      "id": "f889",
+      "userId": "5410",
+      "name": "shravya cashkick",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 591362.9568,
+      "totalReceived": 528002.64
+    },
+    {
+      "id": "7d6c",
+      "userId": "9c5e",
+      "name": "Narendra CashKick",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 245232.96,
+      "totalReceived": 218958
+    },
+    {
+      "id": "274c",
+      "userId": "653f",
+      "name": "Spamm CashKick",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 283855.75680000003,
+      "totalReceived": 253442.64
+    },
+    {
+      "id": "6189",
+      "userId": "9173",
+      "name": "Ajay cashkick",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 181134.24,
+      "totalReceived": 161727
+    },
+    {
+      "id": "329f",
+      "userId": "9173",
+      "name": "2nd Ajay Cashkick",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 283855.75680000003,
+      "totalReceived": 253442.64
+    },
+    {
+      "id": "9a27",
+      "userId": "b055",
+      "name": "Seetha Cashkick",
+      "status": "Pending",
+      "maturity": "23 Jul 2025",
+      "totalReceivedMonths": 12,
+      "totalReceivedPercentage": 12,
+      "totalFinanced": 276248,
+      "totalReceived": 246650
+    }
+  ],
+  "UserContracts": [
+    {
+      "id": "1",
+      "contractsId": 1,
+      "userId": "1",
+      "status": "avaible",
+      "totalFinanced": 0,
+      "totalAvailble": 170454.55
+    }
+  ],
+  "Payments": [
+    {
+      "id": "1",
+      "userId": "1",
+      "dueDate": "Mar 03,2021",
+      "status": "upcoming",
+      "expectedAmount": -1420455,
+      "outStanding": 15625005
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "dueDate": "Mar 03,2021",
+      "status": "upcoming",
+      "expectedAmount": -1420455,
+      "outStanding": 15625005
+    }
+  ],
+  "SelectedContracts": [
+    {
+      "id": "ac6d",
+      "userId": "121",
+      "contractIds": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "userId": "121",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.6
+        },
+        {
+          "id": "2",
+          "amount": 28493.36
+        }
+      ],
+      "id": "5851"
+    },
+    {
+      "id": "cbc2",
+      "userId": "6",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        },
+        {
+          "id": "3",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "eddf",
+      "userId": "6",
+      "contractIds": [
+        {
+          "id": "3",
+          "amount": 63360
+        },
+        {
+          "id": "4",
+          "amount": 63360
+        },
+        {
+          "id": "5",
+          "amount": 63360
+        },
+        {
+          "id": "6",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "3a10",
+      "userId": "5",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        },
+        {
+          "id": "3",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "63ef",
+      "userId": "1",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "9c2c",
+      "userId": "514",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "aead",
+      "userId": "3",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        },
+        {
+          "id": "3",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "9b0f",
+      "userId": "8cfa",
+      "contractIds": [
+        {
+          "id": "3",
+          "amount": 63360
+        },
+        {
+          "id": "4",
+          "amount": 63360
+        },
+        {
+          "id": "5",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "1d5c",
+      "userId": "5410",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        },
+        {
+          "id": "3",
+          "amount": 63360
+        },
+        {
+          "id": "4",
+          "amount": 63360
+        },
+        {
+          "id": "5",
+          "amount": 63360
+        },
+        {
+          "id": "6",
+          "amount": 63360
+        },
+        {
+          "id": "7",
+          "amount": 63360
+        },
+        {
+          "id": "8",
+          "amount": 21120
+        }
+      ]
+    },
+    {
+      "id": "21fd",
+      "userId": "9c5e",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        },
+        {
+          "id": "3",
+          "amount": 28875.36
+        }
+      ]
+    },
+    {
+      "id": "ded7",
+      "userId": "",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 22365.36
+        }
+      ]
+    },
+    {
+      "id": "0f8a",
+      "userId": "653f",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        },
+        {
+          "id": "3",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "6d4b",
+      "userId": "9173",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        },
+        {
+          "id": "3",
+          "amount": 63360
+        }
+      ]
+    },
+    {
+      "id": "96be",
+      "userId": "b055",
+      "contractIds": [
+        {
+          "id": "1",
+          "amount": 126722.64
+        },
+        {
+          "id": "2",
+          "amount": 63360
+        },
+        {
+          "id": "3",
+          "amount": 56567.36
+        }
+      ]
+    }
+  ]
+}
